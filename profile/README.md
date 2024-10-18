@@ -13,8 +13,8 @@ This organization will maintain repositories for the following subjects:
 | Member Name     | GitHub Profile                       | ISEL INFO                       |
 |------------------|-------------------------------------|------------------------------------|
 | Alexandre Silva      | [MrKelpy](https://github.com/alice-silva) | [ISEL PROFILE](https://2425moodle.isel.pt/user/view.php?id=747161&course=8516)                |
-| Daniel Viegas    | [dfvjudoca](https://github.com/bruno-pereira) | [ISEL PROFILE](https://2425moodle.isel.pt/user/view.php?id=747328&course=8516)                  |
-| Duarte Rodrigues  | [1xSh4dowx1](https://github.com/carlos-santos) | [ISEL PROFILE](https://2425moodle.isel.pt/user/view.php?id=747042&course=8516)                 |
+| Daniel Viegas    | [dfvjudoca](https://github.com/dfvjudoca) | [ISEL PROFILE](https://2425moodle.isel.pt/user/view.php?id=747328&course=8516)                  |
+| Duarte Rodrigues  | [1xSh4dowx1](https://github.com/1xSh4dowx1) | [ISEL PROFILE](https://2425moodle.isel.pt/user/view.php?id=747042&course=8516)                 |
 
 ## Useful Resources
 
