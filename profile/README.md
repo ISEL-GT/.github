@@ -1,6 +1,6 @@
 # ISEL-G1
 
-ISEL-G1 is the ISEL LEIC13D Group 1, focused on collaborative projects and academic assignments in various subjects related to software development and technology.
+ISEL-G1 is the ISEL LEIC12D Group 1, focused on collaborative projects and academic assignments in various subjects related to software development and technology.
 
 ## Subjects
 
