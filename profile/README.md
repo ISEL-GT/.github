@@ -1,12 +1,14 @@
-# ISEL-G1
+![imagem](https://github.com/user-attachments/assets/72c90101-f8bf-4703-a385-104bfcff4ddd)# ISEL-GT
 
-ISEL-G1 is an ISEL LEIC12D Group, focused on collaborative projects and academic assignments in various subjects related to software development and technology.
+ISEL-GT is an organisation composed of many ISEL LEIC12D groups, focused on collaborative projects and academic assignments in various subjects related to software development and technology.
 
 ## Subjects
 
 This organization will maintain repositories for the following subjects:
 
-- **[Programação I](https://2425moodle.isel.pt/course/view.php?id=8516)** 👨‍💻
+- **[Programação I](https://2425moodle.isel.pt/course/view.php?id=8516)**
+- **[Lógica e Sistemas Digitais](https://2425moodle.isel.pt/course/view.php?id=8178)**
+- **[Eletrónica I](https://2425moodle.isel.pt/course/view.php?id=8299)** 
 
 ## Members
 
