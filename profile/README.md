@@ -1,4 +1,4 @@
-![imagem](https://github.com/user-attachments/assets/72c90101-f8bf-4703-a385-104bfcff4ddd)# ISEL-GT
+# ISEL-GT
 
 ISEL-GT is an organisation composed of many ISEL LEIC12D groups, focused on collaborative projects and academic assignments in various subjects related to software development and technology.
 
