@@ -1,6 +1,6 @@
 # ISEL-GT
 
-ISEL-GT is an organisation composed of many ISEL LEICX2D groups, focused on collaborative projects and academic assignments in various subjects related to software development and technology.
+ISEL-GT is an organisation composed of many ISEL LEIC workgroups, focused on collaborative projects and academic assignments in various subjects related to software development and technology.
 
 ## Subjects
 
