@@ -1,6 +1,6 @@
 # ISEL-GT
 
-ISEL-GT is an organisation composed of many ISEL LEIC workgroups, focused on collaborative projects and academic assignments in various subjects related to software development and technology.
+ISEL-GT is an organisation documenting the work of many different ISEL workgroups, focused on collaborative projects and academic assignments in various subjects related to software development and technology.
 
 ## Subjects
 
@@ -11,7 +11,7 @@ This organization will maintain repositories for the following subjects:
 - **[Eletrónica I](https://2425moodle.isel.pt/course/view.php?id=8299)**
 - **[Laboratório de Informática e Computadores](https://2425moodle.isel.pt/course/view.php?id=9083)** 
 - **[Algoritmos e Estruturas de Dados](https://2425moodle.isel.pt/course/view.php?id=8880)**
-- **[Redes de Computadores](https://2425moodle.isel.pt/course/view.php?id=8180)** 
+- **[Redes de Computadores](https://2425moodle.isel.pt/course/view.php?id=8180)**
 
 ## Members
 
